@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "files": {
+    ".github/ISSUE_TEMPLATE/bug_report.yml": "ab5a1f6e18725f2f2f0f32b52dad59a6c773a54bdcfa3dcf9e9558c63cbd69b1",
+    ".github/ISSUE_TEMPLATE/config.yml": "b81ee076f619125476e29f8407aeeba646291cfd8b40508f6b19ac93c42b4cd4",
+    ".github/ISSUE_TEMPLATE/feature_request.yml": "8d965b84339b736e090c429a8bb973aa1f83581e588555832f9d9d8fdaaac139",
+    "apps/background-remover/README.md": "fbf61874b2f66d25a8a4075859a5a1f8471d385c7203c9086a2137835c4559b2",
+    "apps/diff-checker/README.md": "aca15b37de4a573f968f923f6968427581dc3d8a7fb40ab1d40a5d361f6095bf",
+    "apps/image-upscaler/README.md": "b35dfeaebae2373104c7ca470da6a5e8cd6cae1169c23fc57ffbb62deba8091c",
+    "apps/json-formatter/README.md": "5ea0d3dc34668936303f03faa6dba4c6be48f0bb378393a2b01933daab3fdc4f",
+    "apps/markdown-preview/README.md": "95e7ad98756f69b4001c86f16ba4558c84fbc4f74169e3a2741fe19d69b0c311",
+    "apps/monty-playground/README.md": "8487310f6864740f2e3d5aff1001c7931648d1001fe6999644b5c821c13eee2e",
+    "apps/parquet-viewer-sql/README.md": "dad75312d874388fdf1db9f514eec810cde66ff436de2c6572178b375c67dd43",
+    "apps/password-generator/README.md": "9dbc05f4e385e19c5870e23c2f0dd7bf64312375bf1d0e1c448395837ce3abce",
+    "apps/pdf-unlocker/README.md": "f2950b4ba28b37979846feaebcd4defcff30544801232b500e780547ba61f1c9",
+    "CONTRIBUTING.md": "c54f8b6f7890aeb7216524131847735da40af3476471b98601537ebe9f64e664",
+    "README.md": "c70cd2a1931ea94ef7760b271f2212df4ee6c93a2fb9ccd5bed97c2af26dbe45"
+  }
+}

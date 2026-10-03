@@ -1,0 +1,48 @@
+name: Bug report
+description: Tell us what went wrong using a small example without private data.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "This report is public. Use invented examples and remove sensitive information from text, screenshots, and links. Security concerns: email contact@tivr.dev privately."
+  - type: input
+    id: tool
+    attributes:
+      label: Tool
+      placeholder: The tool name or its page path
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include a small, invented example if useful.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and device
+      placeholder: Browser version, operating system, and desktop or mobile
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before submitting
+      options:
+        - label: I removed private information and this is not a security vulnerability report.
+          required: true

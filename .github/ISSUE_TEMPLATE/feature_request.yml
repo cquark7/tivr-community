@@ -1,0 +1,34 @@
+name: Feature or tool request
+description: Tell us about a small task you wish were easier.
+title: "[Request]: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool
+      placeholder: An existing tool name, or "new tool"
+  - type: textarea
+    id: task
+    attributes:
+      label: What task are you trying to complete?
+      description: Explain the problem, with an invented example if useful.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help?
+    validations:
+      required: true
+  - type: textarea
+    id: privacy
+    attributes:
+      label: Why is local processing important for this task?
+  - type: checkboxes
+    id: checked
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing requests and removed private information.
+          required: true

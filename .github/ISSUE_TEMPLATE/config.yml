@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private feedback or security concern
+    url: "https://tivr.dev/feedback"
+    about: Email contact@tivr.dev. Keep exploitable details and private information out of public issues.
