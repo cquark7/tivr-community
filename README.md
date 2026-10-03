@@ -1,4 +1,6 @@
-<h1 align="center">tivr</h1>
+<h1 align="center">
+  <img src="assets/tivr-logo.svg" alt="tivr" width="320">
+</h1>
 
 <p align="center"><strong>From my workbench to yours.</strong></p>
 
